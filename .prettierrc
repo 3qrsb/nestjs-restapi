@@ -1,5 +1,7 @@
 {
   "singleQuote": true,
   "trailingComma": "all",
-  "plugins": ["prettier-plugin-prisma"]
+  "plugins": ["prettier-plugin-prisma"],
+  "semi": true,
+  "printWidth": 80
 }
